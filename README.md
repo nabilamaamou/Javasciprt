@@ -7,4 +7,4 @@ _¿hola como **estas?**_
 
 Ejercicios|Descripción
 -----------|---------
-[Html](/LMAR/ejercicio1)|ejercicio 1 etiqueta de parrafo y parrafo
+[javascipt](/ejercicio1/index.html)|ejercicio 1 etiqueta de parrafo y parrafo
