@@ -13,5 +13,4 @@ Ejercicios|Descripción
 [javascipt](/ejercicio4/index.html)|ejercicio 4 
 [javascipt](/ejercicio5/index.html)|ejercicio 5
 [javascipt](/ejercicio6/index.html)|ejercicio 6 
-[javascipt](/ejercicio7/index.html)|ejercicio 7 
 [javascipt](/ejercicio8/index.html)|ejercicio 8
