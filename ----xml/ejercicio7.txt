@@ -1,0 +1,5 @@
+a-<!-- declarations for <head> & <body> -->
+b-An attribute name must not appear more than once in the same start-tag or empty-element tag.
+c. 3.2.1 Element Content
+
+
