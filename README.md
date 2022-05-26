@@ -17,7 +17,8 @@ Ejercicios|Descripción
 [xml](xml/ejercicio1.xml)|ejercicio 1 xml
 [xml](xml/ejercicio2.xml)|ejercicio 2 xml
 [xml](xml/ejercicio3.xml)|ejercicio 3 xml
-[xml](xml/ejercicio4.xml)|ejercicio 4 xml
 [xml](xml/ejercicio5.xml)|ejercicio 5 xml
 [xml](xml/ejercicio6.xml)|ejercicio 6 xml
+[xml](xml/ejercicio7.txt)|ejercicio 7 xml
 [xml](xml/ejercicio8.xml)|ejercicio 8 xml
+[xml](xml/ejercicio9.xml)|ejercicio 9 xml
