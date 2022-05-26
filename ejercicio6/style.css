@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgrey;
+}
+div.todo{
+background-color: rgb(224, 218, 218);
+width: 800px;
+height: 450px;
+text-align: center;
+margin-top: 10%;
+margin-left: 25%;
+
+
+
+
+}
+
+button.click1{
+    background-color: rgb(85, 182, 150);
+    border-bottom-color: black;
+    border-left-color: black;
+    text-align: center;
+    color: aliceblue;
+    width: 200px;
+    height: 50px;
+    text-align: 100% 100% 100% 100%;
+    text-size-adjust: 50px;
+    background-position: center;
+    position: relative;
+    margin: auto;
+     
+     
+     
+}
+h.palabra{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p.autor{
+    color: rgb(85, 182, 150);
+}
