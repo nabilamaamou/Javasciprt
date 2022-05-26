@@ -14,10 +14,10 @@ Ejercicios|Descripción
 [javascipt](/ejercicio5/index.html)|ejercicio 5 javascript
 [javascipt](/ejercicio6/index.html)|ejercicio 6 javascript
 [javascipt](/ejercicio8/index.html)|ejercicio 8 javascript
-[xml](xml/ejercicio1)|ejercicio 1 xml
-[xml](xml/ejercicio2)|ejercicio 2 xml
-[xml](xml/ejercicio3)|ejercicio 3 xml
-[xml](xml/ejercicio4)|ejercicio 4 xml
-[xml](xml/ejercicio5)|ejercicio 5 xml
-[xml](xml/ejercicio6)|ejercicio 6 xml
-[xml](xml/ejercicio8)|ejercicio 8 xml
+[xml](xml/ejercicio1.xml)|ejercicio 1 xml
+[xml](xml/ejercicio2.xml)|ejercicio 2 xml
+[xml](xml/ejercicio3.xml)|ejercicio 3 xml
+[xml](xml/ejercicio4.xml)|ejercicio 4 xml
+[xml](xml/ejercicio5.xml)|ejercicio 5 xml
+[xml](xml/ejercicio6.xml)|ejercicio 6 xml
+[xml](xml/ejercicio8.xml)|ejercicio 8 xml
