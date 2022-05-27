@@ -22,3 +22,4 @@ Ejercicios|Descripción
 [xml](xml/ejercicio7.txt)|ejercicio 7 xml
 [xml](xml/ejercicio8.xml)|ejercicio 8 xml
 [xml](xml/ejercicio9.xml)|ejercicio 9 xml
+[project](/project/quiz.html)|ejercicio 8 javascript
